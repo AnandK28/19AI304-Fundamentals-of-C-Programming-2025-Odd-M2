@@ -1,7 +1,6 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M2
 # IAPR-2- Module 2 - FoC
-## 3. Implementation of programs using conditional statements.
-## 4. Implementation of programs using various control statements.
+
 # Ex.No:6
   Build a C program to input a student’s marks in three subjects (Math, Science, and English). Calculate the average marks and determine the grade using nested if-else statements with safe floating-point comparisons based on the following grading criteria:
     
